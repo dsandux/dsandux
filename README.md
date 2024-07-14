@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on conversational solutions of the retail industry.
 - 🌱 I’m currently learning data science.
-- 👯 I’m looking to collaborate on ds projects and ux projects.
+- 👯 I’m looking to collaborate on data science projects and ux projects.
 - 🤔 I’m looking for help with data science.
 
 <!--
