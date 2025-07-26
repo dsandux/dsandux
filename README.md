@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning data science (MBA).
 - 👯 I’m looking to collaborate on data science projects and ux projects.
 - 🤔 I’m curious. And also I'm always learning.
-- ⚡ Fun fact: Once I survived the time limit of Pitfall (Ataria 2600).
+- ⚡ Fun fact: Once I survived the time limit of Pitfall (Atari 2600).
 
 <!--
 **dsandux/dsandux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
